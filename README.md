@@ -15,7 +15,7 @@ This project implements a Sparse Matrix class in Python, allowing for efficient 
 
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone <https://github.com/Yunis-konda001/DSA-HW01---Sparse-Matrices>
    cd <repository-directory>
    ```
 
