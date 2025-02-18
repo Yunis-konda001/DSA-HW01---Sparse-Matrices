@@ -28,4 +28,4 @@ This project implements a Sparse Matrix class in Python, allowing for efficient 
 
 ### Loading a Sparse Matrix
 
-To load a sparse matrix from a file, use the following method:
+To load a sparse matrix from a file
